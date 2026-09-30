@@ -1,12 +1,14 @@
 ```
+THINK LIKE AN ATTACKER. PROTECT LIKE A DEFENDER
+
 $ whoami
-atharv isal
+Atharv isal
 
 $ cat role.txt
 Security Analyst I @ ConnectWise | SOC monitoring, threat hunting, incident response
 
 $ cat status.txt
-CEH certified | working towards OSCP | Mumbai, India
+CEH certified | working towards OSCP | India
 ```
 
 ### About me
